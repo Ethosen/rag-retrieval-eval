@@ -1,0 +1,11 @@
+{
+  "bm25": 16.3,
+  "minilm": 171.1,
+  "bge-small": 642.7,
+  "e5-small": 598.0,
+  "hybrid": 7.9,
+  "bm25/no-tables": 15.5,
+  "bge-small/no-tables": 543.6,
+  "bge-small/whole-section": 160.1,
+  "hybrid+rerank": 1567.0
+}
